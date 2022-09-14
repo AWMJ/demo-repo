@@ -1,3 +1,3 @@
 # Demo
 
-GitHub Faraday
+GitHub Faraday Academy!
