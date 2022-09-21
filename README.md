@@ -6,3 +6,7 @@ GitHub Faraday Academy!
 
 Wonderful Instructor!!!
 
+## Local Developer
+
+1. Open index.html in your browser.
+
